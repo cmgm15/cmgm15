@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Carlos Gómez!
 
-https://img.shields.io/twitter/follow/cmgomezm15?style=social
+![Twitter Follow](https://img.shields.io/twitter/follow/cmgomezm15?style=social)
+
 <!--
 **cmgm15/cmgm15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
