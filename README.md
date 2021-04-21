@@ -14,7 +14,7 @@ Also, I'm trying to create something big in my city (Medellín, Colombia) - an e
 
 - Most of the time I don't have idea what I'm doing.  
 
-😄 Pronouns: ... He/him
+😄 Pronouns: He/him
 
 ---
 
