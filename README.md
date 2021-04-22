@@ -36,3 +36,10 @@ Also, I'm trying to create something big in my city (Medellín, Colombia) - an e
 - [<img src="assets/linkedin.svg" alt="LinkedIn Logo" width="15" height="15"/> LinkedIn](https://www.linkedin.com/in/cmgomezm15/)
 - [<img src="assets/instagram.svg" alt="Instagram Logo" width="15" height="15"/> Instagram](http://instagram.com/cmgomezm15)
 - [<img src="assets/medium.png" alt="Medium Logo" width="15" height="15"/> Medium](https://medium.com/@cmgomezm15)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cmgm15&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmgm15&layout=compact" />
+</a>
