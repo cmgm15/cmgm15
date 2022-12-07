@@ -6,8 +6,6 @@ I am a DevOps/Cloud engineer from Medellín, Colombia. I'm currently working on 
 
 I will try to help Open Source initiatives and also create an online presence of me - sharing the things that I do every day.  
 
-Also, I'm trying to create something big in my city (Medellín, Colombia) - an entertainment center called @sport360
-
 ⚡ Fun facts:
 
 - Seems that I know a lot of things - but for me it's a little lake compared with the ocean that I would like to know. BTW, in some things my knowledge is not too deep that I would like.
