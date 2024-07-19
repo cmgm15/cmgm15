@@ -2,7 +2,7 @@
 
 ---
 
-I am a DevOps/Cloud engineer from Medellín, Colombia. I'm currently working on @kinandcarta as a Tech Principal Software Engineer (DevOps Practice). I love system design solutions, automating things, build pipelines, write IaC, develop things and think about information security. I came from on-premise world but when I discovered cloud computing I think my life changed.  
+I am a DevOps/Cloud engineer from Medellín, Colombia. I'm currently working on @globant as a Sr Lvl 3 DevOps Engineer. I love system design solutions, automating things, build pipelines, write IaC, develop things and think about information security. I came from on-premise world but when I discovered cloud computing I think my life changed.  
 
 I will try to help Open Source initiatives and also create an online presence of me - sharing the things that I do every day.  
 
